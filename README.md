@@ -172,14 +172,6 @@ The official Patch bundle provided by ReVanced and the community.
 | `enable-downloads` | Enables downloads for Crunchyroll. | all |
 </details>
 
-### 📦 `com.garzotto.pflotsh.ecmwf_a`
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `pflotsh-ecmwf-subscription-unlock` | Unlocks all subscription features. | 3.5.4 |
-</details>
-
 ### 📦 `org.citra.citra_emu`
 <details>
 
